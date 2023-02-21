@@ -1,2 +1,2 @@
 # GulpAssembling
-Gulp by freelancer by life
+Сборка gulp от фрилансера по жизни
